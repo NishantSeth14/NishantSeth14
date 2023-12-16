@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* 🌍  I'm based in India<br>* 🖥️  See my portfolio at [MyPortfolio](http://6551eb2554d2872f430e390f--clever-platypus-620da7.netlify.app/)<br>* ✉️  You can contact me at [nishant140104@gmail.com](mailto:nishant140104@gmail.com)<br>* 🧠  I'm learning Next.js , TypeScript<br>* 🤝  I'm open to collaborating on Other React based projects</p>
+<p align="left">* 🌍  I'm based in India<br>* 🖥️  See my portfolio at http://6551eb2554d2872f430e390f--clever-platypus-620da7.netlify.app/<br>* ✉️  You can contact me at nishant140104@gmail.com<br>* 🧠  I'm learning Next.js , TypeScript<br>* 🤝  I'm open to collaborating on Other React based projects</p>
 
 ###
 
